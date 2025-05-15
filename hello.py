@@ -1,3 +1,3 @@
-print("hello world")
-x = 5
-print(x/5)
+list = [x * x for x in range(1,6)]
+print(list)
+print(list -1)
